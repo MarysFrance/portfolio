@@ -47,7 +47,7 @@ to build solutions for real-world problems.
 
 ---
 
-# ⭐ Projeto em destaque | Featured Project
+# ⭐ Projetos em destaque | Featured Projects
 
 ## 📊 Dashboard de Laboratório
 
@@ -69,7 +69,47 @@ https://github.com/user-attachments/assets/02096df3-607e-4e34-a7be-07a518f79929
 
 <div align="center">
 
-### 🔗 [ACESSAR O PROJETO](https://github.com/MarysFrance/Dashboard_lab)
+### 🔗 [ACESSAR O DASHBOARD](https://github.com/MarysFrance/Dashboard_lab)
+
+</div>
+
+---
+
+## 🧬 Análise de Frequência de Alelos HLA
+
+**Python • Pandas • Matplotlib • Plotly • Data Analysis**
+
+Projeto de análise exploratória e visualização da distribuição de frequências de alelos HLA.
+
+Os dados são estruturados e analisados com Python, permitindo comparar a distribuição de alelos entre diferentes regiões e visualizar os resultados de diferentes formas.
+
+O projeto inclui:
+
+- 📊 análise exploratória de frequências;
+- 🗺️ comparação entre regiões;
+- 🔥 heatmap para identificação visual de padrões;
+- 📈 gráfico de barras empilhadas;
+- 🌳 treemap interativo;
+- 📓 notebook Jupyter com a análise;
+- 🐍 script Python reproduzível.
+
+### 📊 Frequência de alelos por região
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarysFrance/DadosHLA/main/images/stacked_bar.png" width="85%" alt="Distribuição de frequências de alelos HLA">
+</p>
+
+### 🔥 Heatmap de frequências HLA
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarysFrance/DadosHLA/main/images/heatmap.png" width="85%" alt="Heatmap de frequências HLA">
+</p>
+
+> Os dados utilizados neste projeto são simulados para fins demonstrativos e educacionais.
+
+<div align="center">
+
+### 🔗 [ACESSAR O PROJETO HLA](https://github.com/MarysFrance/DadosHLA)
 
 </div>
 
@@ -89,11 +129,11 @@ https://github.com/user-attachments/assets/02096df3-607e-4e34-a7be-07a518f79929
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
-`Excel` • `VBA` • `SQL` • `Data Analysis`
+`Excel` • `VBA` • `SQL` • `Pandas` • `Matplotlib` • `Plotly` • `Data Analysis`
 
 ---
 
-# 💻 Projetos | Projects
+# 💻 Outros Projetos | Other Projects
 
 ### 🏡 Imobiliária Mendes
 
