@@ -31,9 +31,9 @@ Ferramenta que desenvolvi para organizar e analisar dados de exames de imunogen�
 
 > 15 anos de domínio de um problema real + lógica de programação aplicada = minha ponte natural para tech.
 
-### 🎥 Demonstração | Demo
+### 🎥 Demonstração em vídeo | Video demo
 
-https://github.com/MarysFrance/Dashboard_lab/blob/main/dashboard.mp4
+https://github.com/user-attachments/assets/02096df3-607e-4e34-a7be-07a518f79929
 
 🔗 [Ver repositório](https://github.com/MarysFrance/Dashboard_lab)  |  📁 Excel, VBA, organização e modelagem de dados
 
