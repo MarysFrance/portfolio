@@ -1,83 +1,218 @@
-<h1 align="center">Olá, eu sou a Maristela 👋</h1>
-<h3 align="center">Bióloga | Em transição para Tecnologia & Dados</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=15%2B+anos+em+laborat%C3%B3rio+cl%C3%ADnico+regulado;Agora+construindo+solu%C3%A7%C3%B5es+com+tecnologia;Dados+%2B+Sa%C3%BAde+%2B+C%C3%B3digo" alt="Typing SVG" />
-</p>
+# 👋 Olá, eu sou a Maristela
 
----
+### 🧬 Biologia • 📊 Dados • 💻 Tecnologia
 
-## 🧬➡️💻 Sobre mim | About me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=15%2B+anos+em+laborat%C3%B3rio+cl%C3%ADnico+regulado;Transformando+problemas+reais+em+solu%C3%A7%C3%B5es;Biologia+%2B+Dados+%2B+Tecnologia" alt="Typing SVG" />
 
-**PT-BR**
+<br>
 
-Sou bióloga com mais de 15 anos de experiência em ambiente hospitalar regulado (Hospital de Amor, Barretos), atuando com dados genéticos, tipificação HLA, sequenciamento NGS e rastreabilidade de amostras biológicas. Ao longo da carreira, sempre resolvi problemas com dados — só que em planilhas de laboratório, não em bancos de dados.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maristela_Mendes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maristelamendes)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maris_franca@hotmail.com)
 
-Hoje estou em transição de carreira para Tecnologia, cursando **Sistemas de Informação** e um programa **Full Stack**. Vejo tecnologia como extensão do pensamento humano, e quero aplicar minha experiência analítica e meu rigor de ambiente regulado para construir soluções que resolvam problemas reais em escala.
-
-**EN**
-
-I'm a biologist with 15+ years of experience in a regulated hospital lab (Hospital de Amor, Barretos), working with genetic data, HLA typing, NGS sequencing, and biological sample traceability. Throughout my career, I've always solved problems with data — just in lab spreadsheets instead of databases.
-
-I'm currently transitioning into Technology, studying **Information Systems** and a **Full Stack** program. I see technology as an extension of human thinking, and I want to apply my analytical background and regulated-environment rigor to build real-world solutions.
+</div>
 
 ---
 
-## 🚀 Projeto em destaque | Featured project
+## 🧬 Sobre mim | About me
 
-### 📊 Dashboard de Laboratório (Excel/VBA)
+### 🇧🇷 PT-BR
 
-Ferramenta que desenvolvi para organizar e analisar dados de exames de imunogenética (tipificação HLA, sorologia, crossmatch, painéis virais) do laboratório onde trabalho — mais de 20 painéis de dados estruturados e automatizados para reduzir retrabalho manual e apoiar decisões clínicas.
+Sou bióloga com mais de **15 anos de experiência em ambiente hospitalar regulado**, atuando com dados genéticos, tipificação HLA, sequenciamento NGS e rastreabilidade de amostras biológicas.
 
-> 15 anos de domínio de um problema real + lógica de programação aplicada = minha ponte natural para tech.
+Ao longo da minha carreira, sempre trabalhei resolvendo problemas, estruturando informações e transformando dados em decisões.
 
-### 🎥 Demonstração em vídeo | Video demo
+Hoje curso **Sistemas de Informação** e **Full Stack Development**, construindo a ponte entre minha experiência científica e a tecnologia.
+
+Meu objetivo é unir:
+
+**🧬 Ciência + 📊 Dados + 💻 Tecnologia**
+
+para desenvolver soluções para problemas reais.
+
+### 🇺🇸 EN
+
+I'm a biologist with **15+ years of experience in a regulated hospital laboratory**, working with genetic data, HLA typing, NGS sequencing, and biological sample traceability.
+
+Throughout my career, I've worked on solving problems, structuring information, and transforming data into decisions.
+
+I'm currently studying **Information Systems** and **Full Stack Development**, building the bridge between my scientific background and technology.
+
+My goal is to combine:
+
+**🧬 Science + 📊 Data + 💻 Technology**
+
+to build solutions for real-world problems.
+
+---
+
+# ⭐ Projeto em destaque | Featured Project
+
+## 📊 Dashboard de Laboratório
+
+**Excel • VBA • Data Organization • Automation**
+
+Ferramenta desenvolvida para organizar e analisar dados de exames de imunogenética do laboratório onde trabalho.
+
+O projeto reúne **mais de 20 painéis de dados estruturados e automatizados**, incluindo informações relacionadas a:
+
+`HLA Typing` • `Sorologia` • `Crossmatch` • `Painéis Virais` • `Rastreabilidade`
+
+O objetivo foi centralizar informações, reduzir retrabalho manual e tornar o acesso aos dados mais rápido e organizado.
+
+> **Conhecimento profundo do problema + lógica de programação = tecnologia aplicada a uma necessidade real.**
+
+### 🎥 Demonstração em vídeo | Video Demo
 
 https://github.com/user-attachments/assets/02096df3-607e-4e34-a7be-07a518f79929
 
-🔗 [Ver repositório](https://github.com/MarysFrance/Dashboard_lab)  |  📁 Excel, VBA, organização e modelagem de dados
+<div align="center">
+
+### 🔗 [ACESSAR O PROJETO](https://github.com/MarysFrance/Dashboard_lab)
+
+</div>
 
 ---
 
-## 🛠️ Stack & Ferramentas
+# 🛠️ Tecnologias & Ferramentas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
-![Excel/VBA](https://img.shields.io/badge/Excel%2FVBA-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+### 👩‍💻 Desenvolvimento
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,flutter" />
+</p>
 
-## 💻 Outros projetos | Other projects
+### 🗄️ Dados & Ferramentas
 
-| Projeto                                                                              | Descrição                                                             |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| 🏡 [Imobiliária Mendes](https://github.com/MarysFrance/PROJETO_DEVMEDIA_IMOBILIARIA) | Site institucional responsivo em HTML/CSS                             |
-| 🍰 [Hora du Doce](https://github.com/MarysFrance/PROJETO_DEVMIDIA_DOCERIA)           | Landing page responsiva de confeitaria (media queries, layout fluido) |
-| 🧔 [Borges Beards](https://github.com/MarysFrance/PROJETO_DEVMIDIA_BARBEARIA)        | Página estática com integração WhatsApp                               |
-| 📚 [Mentes In-formadas](https://github.com/MarysFrance/PROJETO_DEVMIDIA_LIVRO)       | Landing page de livro com SEO e metadados                             |
-| 🍽️ [Receita da Lili Lino](https://github.com/MarysFrance/PROJETO_DEVMIDIA_RECEITA)  | Página semântica com boas práticas de HTML                            |
-| 🌆 [Barretos](https://github.com/MarysFrance/PROJETO_DEVMIDIA_BARRETOS)              | Página institucional sobre a cidade                                   |
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+`Excel` • `VBA` • `SQL` • `Data Analysis`
 
 ---
 
-## 🎓 Formação | Education
+# 💻 Projetos | Projects
 
-* Sistemas de Informação — Cruzeiro do Sul (em andamento, previsão 2027)
-* Full Stack Development — DevMedia (em andamento)
-* Bacharelado em Ciências Biológicas — UNIFRAN
+### 🏡 Imobiliária Mendes
+
+**HTML • CSS • Responsive Design**
+
+Site institucional responsivo desenvolvido durante minha formação em desenvolvimento web.
+
+🔗 **[Ver projeto →](https://github.com/MarysFrance/PROJETO_DEVMEDIA_IMOBILIARIA)**
 
 ---
 
-## 📫 Contato | Contact
+### 🍰 Hora du Doce
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/maristelamendes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:maris_franca@hotmail.com)
+**HTML • CSS • Media Queries**
 
-<p align="center"><i>Aberta a oportunidades de estágio e primeiras posições em Tecnologia/Dados 🌱</i></p>
+Landing page responsiva de confeitaria utilizando layout fluido e media queries.
+
+🔗 **[Ver projeto →](https://github.com/MarysFrance/PROJETO_DEVMIDIA_DOCERIA)**
+
+---
+
+### 🧔 Borges Beards
+
+**HTML • CSS • WhatsApp Integration**
+
+Página para barbearia com integração para contato via WhatsApp.
+
+🔗 **[Ver projeto →](https://github.com/MarysFrance/PROJETO_DEVMIDIA_BARBEARIA)**
+
+---
+
+### 📚 Mentes In-formadas
+
+**HTML • SEO • Metadata**
+
+Landing page de livro desenvolvida utilizando HTML semântico, SEO e metadados.
+
+🔗 **[Ver projeto →](https://github.com/MarysFrance/PROJETO_DEVMIDIA_LIVRO)**
+
+---
+
+### 🍽️ Receita da Lili Lino
+
+**Semantic HTML • Web Structure**
+
+Página de receita desenvolvida utilizando HTML semântico e boas práticas de estruturação web.
+
+🔗 **[Ver projeto →](https://github.com/MarysFrance/PROJETO_DEVMIDIA_RECEITA)**
+
+---
+
+### 🌆 Barretos
+
+**HTML • CSS**
+
+Página institucional apresentando informações sobre a cidade de Barretos.
+
+🔗 **[Ver projeto →](https://github.com/MarysFrance/PROJETO_DEVMIDIA_BARRETOS)**
+
+---
+
+# 📚 Atualmente estudando | Currently Learning
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Em%20formação-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Em%20formação-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Em%20formação-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20%26%20GitHub-Em%20formação-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+# 🎓 Formação | Education
+
+🎓 **Sistemas de Informação**  
+Cruzeiro do Sul • Em andamento • Previsão 2027
+
+💻 **Full Stack Development**  
+DevMedia • Em andamento
+
+🧬 **Bacharelado em Ciências Biológicas**  
+UNIFRAN
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MarysFrance&show_icons=true&hide_border=true&locale=pt-br" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarysFrance&layout=compact&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Vamos conversar? | Let's connect
+
+Estou construindo minha trajetória em tecnologia e aberta a **oportunidades de estágio e primeiras posições em Tecnologia e Dados**.
+
+Minha experiência anterior não começa no código.
+
+**Começa nos problemas reais que aprendi a resolver.**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maristela_Mendes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maristelamendes)
+
+[![Email](https://img.shields.io/badge/Email-Fale_comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maris_franca@hotmail.com)
+
+<br>
+
+### 🧬 → 📊 → 💻
+
+*Ciência, dados e tecnologia para resolver problemas reais.*
+
+</div>
